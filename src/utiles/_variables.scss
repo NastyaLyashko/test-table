@@ -1,0 +1,24 @@
+$color-main:                 rgb(0, 0, 0);
+$color-secondary:            rgb(138, 136, 136);
+$color-active:               rgb(21, 121, 189);
+$color-white:                rgb(255, 255, 255);
+
+$border:                     1px solid $color-secondary;
+$border-radius:              5px;
+
+$grid-columns:               minmax(100px, calc(15% - 7px)) minmax(260px, calc(35% - 7px)) minmax(150px, calc(35% - 7px)) minmax(155px, calc(15% - 7px));
+$grid-rows:                  70px;
+$gap:                        7px;
+$grid-columns_sm:            minmax(54px, calc(15% - 4px)) minmax(90px, calc(35% - 4px)) minmax(70px, calc(35% - 4px)) minmax(70px, calc(15% - 4px));
+$grid-rows_sm:               40px;
+$gap_sm:                     4px;
+
+$fs-th:                      1rem;
+$fs-th_sm:                   0.7rem;
+$fs-main:                    0.95rem;
+$fs-second:                  0.7rem;
+$fs-main_sm:                 0.8em;
+$fs-second_sm:               0.6em;
+
+$min-width_sm:               320px;
+$min-width_lg:               765px;
